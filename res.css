@@ -1,0 +1,52 @@
+.form-control{
+    max-width: 100%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+form{
+    width: 500px;
+    padding: 60px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.aa{
+    display: none;
+    font-size: small;
+    color: crimson;
+    text-decoration-line: underline;
+    padding-bottom: 10px;
+}
+
+.inputcontainer{
+    position: relative;
+
+}
+
+#icon{
+    position: absolute;
+    bottom: 7px;
+    left: 355px;
+}
+
+.in{
+    position: relative;
+}
+
+#icon1{
+    position: absolute;
+    bottom: 7px;
+    left: 355px;
+
+}
